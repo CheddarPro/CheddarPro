@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many nocode project
 - 📫 How to reach me : pro.chedriguet@gmail.com
 - 😄 Pronouns: "Shed"
-- ⚡ Fun fact: developper since 2024
+- ⚡ Fun fact: developper since 2023
 
 <!---
 CheddarPro/CheddarPro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
